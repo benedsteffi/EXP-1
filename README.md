@@ -56,7 +56,7 @@ b.  KCL:
 
 ## Tabulation
 ### a. KVL
-<img width="1000" height="500" alt="KVLTABLE" src="https://github.com/user-attachments/assets/d35880bc-880e-44f2-9243-3658ee234f7b" />
+<img width="1000" height="250" alt="KVLTABLE" src="https://github.com/user-attachments/assets/d35880bc-880e-44f2-9243-3658ee234f7b" />
 
 ### b. KCL
 <img width="1000" height="500" alt="KCLTABLE" src="https://github.com/user-attachments/assets/3936360c-f179-4099-8fa9-bf792ac1d326" />
