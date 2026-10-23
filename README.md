@@ -81,5 +81,21 @@ Thus, for the given circuit, Kirchhoff’s Laws, (a) KVL and (b) KCL are proved.
 ### b. KCL
 ![KCL Circuit Diagram](WhatsApp%20Image%202026-10-23%20at%2022.41.05.jpeg)
 
+## Calculation
+### a. KVL
+<img width="1423" height="1539" alt="kvlcal" src="https://github.com/user-attachments/assets/d2efab0d-9a7e-44e6-a9b9-2493b49aecea" />
+### b. KCL
+<img width="1426" height="1309" alt="kclcal" src="https://github.com/user-attachments/assets/a9c15c97-8522-4607-8959-c49ac825fe52" />
+
+## Tabulation
+### a. KVL
+<img width="1600" height="588" alt="KVLTABLE" src="https://github.com/user-attachments/assets/d35880bc-880e-44f2-9243-3658ee234f7b" />
+### B. KCL
+<img width="1600" height="549" alt="KCLTABLE" src="https://github.com/user-attachments/assets/3936360c-f179-4099-8fa9-bf792ac1d326" />
+
+
+
+
+
 
 
