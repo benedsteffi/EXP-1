@@ -47,7 +47,7 @@ b.  KCL:
 
 
 ### b. KCL
-<img width="1600" height="1204" alt="WhatsApp Image 2026-10-23 at 22 41 05" src="https://github.com/user-attachments/assets/976baa5d-175c-4271-aa90-cc1c23f77126" />
+<img width="600" height="600" alt="WhatsApp Image 2026-10-23 at 22 41 05" src="https://github.com/user-attachments/assets/976baa5d-175c-4271-aa90-cc1c23f77126" />
 
 
 ## Calculation
