@@ -49,10 +49,10 @@ b.  KCL:
 
 ## Calculation
 ### a. KVL
-<img width="1423" height="1539" alt="kvlcal" src="https://github.com/user-attachments/assets/d2efab0d-9a7e-44e6-a9b9-2493b49aecea" />
+<img width="1000" height="1000" alt="kvlcal" src="https://github.com/user-attachments/assets/d2efab0d-9a7e-44e6-a9b9-2493b49aecea" />
 
 ### b. KCL
-<img width="1426" height="1309" alt="kclcal" src="https://github.com/user-attachments/assets/a9c15c97-8522-4607-8959-c49ac825fe52" />
+<img width="1000" height="1000" alt="kclcal" src="https://github.com/user-attachments/assets/a9c15c97-8522-4607-8959-c49ac825fe52" />
 
 ## Tabulation
 ### a. KVL
